@@ -39,6 +39,16 @@ Create a compelling data visualization dashboard using Tableau to extract and co
 
 ---
 
+## 📊 Tableau Dashboard
+
+You can view the interactive dashboard for Task 2 here:
+
+🔗 [Click to view Task 2 Dashboard on Tableau Public](https://public.tableau.com/views/Task_2_Data_Visualization_and_Storytelling/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This dashboard was created using Tableau to demonstrate data storytelling and visualization techniques based on the dataset used.
+
+---
+
 ### ✅ Summary
 
 This task demonstrates my ability to use Tableau for data storytelling. The dashboard brings together key sales indicators, trends, and patterns to support business decisions.
